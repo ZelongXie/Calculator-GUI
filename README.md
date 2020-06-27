@@ -41,17 +41,17 @@
 
 ### 项目介绍
 
----
+
 
 ​		此项目是一个基于Java语言开发的计算器，实现了加、减、乘、除运算，求倒数、求平方根和求平方功能，并具有退格清零功能。
 
-<img src="images/1.png" style="zoom:80" />
+![https://github.com/ZelongXie/Calculator-GUI/blob/master/images/1.png]
 
 
 
 ​		实现了按键鼠标悬浮变色。
 
-<img src="images/2.png" style="zoom:80" />
+![https://github.com/ZelongXie/Calculator-GUI/blob/master/images/2.png]
 
 
 
@@ -59,7 +59,7 @@
 
 ### 需求分析
 
----
+
 
 ​	对项目需求做出以下分析：
 
@@ -74,13 +74,13 @@
 
 ### 设计思路
 
-------
+
 
 ​		本项目使用MVC框架，**__Model.java**为模型层是负责处理按键按下后的封装方法，会将处理的结果传回View层，**__View.java**为视图层负责用户交互,将窗口和结果显示出来，**__Controller.java**为控制器层负责接受读取用户按键向Model层传递需处理的数据。
 
 
 
-<img src="images/3.png" style="zoom:20" />
+![https://github.com/ZelongXie/Calculator-GUI/blob/master/images/3.png]
 
 
 
@@ -104,7 +104,7 @@
 
 ​		程序使用GUI实现界面布局。
 
-<img src="images/4.png" style="zoom:50" />
+![https://github.com/ZelongXie/Calculator-GUI/blob/master/images/4.png]
 
 
 
